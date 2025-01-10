@@ -1,0 +1,206 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea
+
+# C extensions
+#*.so
+*/v9_1_0.apk
+*/H5173EVS067R859D_668F9C7641430DE9@http-dyn.abuyun.com_9020.zip
+*/H5173EVS067R859D_668F9C7641430DE9.*.zip
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+node_modules
+*/node_modules
+#dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.mp4
+*.flv
+*.DS_Store
+*.idea
+
+#*.ts
+#*.json
+*/data/
+*/data/**.json
+*/mitmdump_test/*.json
+
+*/data/dataset/train/**/*.jpg
+*/number-operator-captcha-recog-master/data/*.jpeg
+
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+#*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+#env/
+venv/
+#ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+*/weibo_sign.zip
+
+/000_projects_bat/weibo_sign/example/taobao/v9.1.0.apk
+/test/test/v9.1.0.apk
+**/numb_opera_captcha_model_trainer-master/src/data/dataset/train/
+**/H5173EVS067R859D_668F9C7641430DE9@http-dyn.abuyun.com_9020.zip
+
+*.git/
+*/codes/rpa-tax-code/
+*/save_all_branchs/**/chromedriver.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/anhui_dev/anhui/chromedriver.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/*/*/chromedriver.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/chromedriver.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/jiebadict.txt
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/jieba_dict.txt
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/ietab.crx
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/geckodriver.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/IEDriverServer.exe
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/stealth.min.js
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/*.log
+/000_projects_bat/01_诺诺网工作相关/00-项目bat/shenbao-rpa/save_all_branchs/**/simkai.ttf
+/000_projects_bat/01_诺诺网工作相关/1-rpa工作/05、诺诺运营管理平台-任务时间/*.json
+/001_020/005-常建gs/spider/target.jpg
+/001_020/005-常建gs/spider/agent/agent.zip
+/001_020/005-常建gs/spider/template.jpg
+/001_020/005-常建gs/target.jpg
+/001_020/005-常建gs/template.jpg
+/001_020/005-常建gs/**/*selenium_proxy.zip
+/001_020/005-常建gs/test/target.jpg
+/001_020/005-常建gs/test/template.jpg
+/000_其他逆向学习/001_瑞数1/002-李如意-瑞数专题/window_get_log.txt
+**/Default/Cache/
+**/Default/Code Cache/
+/000_其他逆向学习/001_瑞数1/002-李如意-瑞数专题/window_ts-caller.txt
+/001_020/004-其他测试/002-csdn文章数据rpa备份/mhtml/
+**/.vscode/
+/000_其他逆向学习/015-小肩膀-验证码/**/*.pt
+/000_其他逆向学习/015-小肩膀-验证码/**/*.gz
+/000_其他逆向学习/015-小肩膀-验证码/**/*byte
+/000_其他逆向学习/015-小肩膀-验证码/**/*.pkl
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/cifar10/model/net_010.pth
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/cifar10/data/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/不定长文本识别/models/save_17.model
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/不定长文本识别/samples/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/不定长文本识别/models/*.model
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/CenterNet/img
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/VOC2012/Annotations/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/VOC2012/JPEGImages/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/VOC2012/ImageSets/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/*.pth
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/acc.txt
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/**/log.txt
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/yolov4/**/*.jpg
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/fasterrcnn/img/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/pspnet/img/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/pspnet/VOCdevkit/datasets/
+/000_其他逆向学习/015-小肩膀-验证码/01-课件/pspnet/VOCdevkit/**/*.png
+/**/error-big.json
+/**/ok-small.json
+000_其他逆向学习/001_瑞数1/**/success.html
+/000-学习总结/6-frida-代码追踪log/log.txt
+/00-iso逆向/3-frida/r0capture-main/tt.pcap
+/02-iOS逆向/00-学习总结/3-frida/weee2.txt
+/02-iOS逆向/00-学习总结/3-frida/weee.txt
+/test/1-pdf转markdown/MinerU/output/
+/01-安卓逆向/000-学习总结/4-frida-dump/Fart/Repair/test/
+/test/1-pdf转markdown/MinerU/small_ocr.pdf
+/test/0-html-转markdown/test.md
+/test/0-html-转markdown/test.html
+/01-安卓逆向/000-学习总结/8-路飞学诚-unidbg/**/*.jar
+/01-安卓逆向/000-学习总结/8-路飞学诚-unidbg/**/*.apk
+/01-安卓逆向/000-学习总结/8-路飞学诚-unidbg/**/*.so
